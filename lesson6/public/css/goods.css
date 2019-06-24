@@ -1,0 +1,11 @@
+.goods {
+    display: flex;
+    flex-wrap: wrap;
+}
+.product {
+
+}
+.good .product {
+    width: 320px;
+    background-color: #f3f3f3;
+}
