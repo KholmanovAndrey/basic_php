@@ -1,0 +1,11 @@
+.goods {
+    display: flex;
+    flex-wrap: wrap;
+}
+.product {
+    padding: 20px;
+    background-color: #f3f3f3;
+}
+.goods .product {
+    width: 320px;
+}
